@@ -26,8 +26,8 @@ The analysis of FCFPs requires high-dimensional multivariate analysis techniques
 
 # Data challenge for microbial community flow cytometry 
 
-Welcome to the Github pages website of the microbial community flow cytometry data challenge as launched on CYTO2018. Here you can find background and more information on the different data sets.
+Welcome to the Github pages website of the microbial community flow cytometry data challenge which will be launched on CYTO2018. Here you will soon find background and more information on the different data sets.
 
 
 # Contact
-
+A general email address will be active from Cyto 2018 on
